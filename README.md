@@ -165,7 +165,7 @@ Acesse: [http://localhost:8080](http://localhost:8080)
 
 **Pipeline com os 3 stages verdes (Stage View):**
 
-![Stage View](evidencias/Stage%20View.png)
+![Stage View](evidencias/parte3-jenkins-pipeline-verde.png)
 
 ---
 
