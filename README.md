@@ -11,18 +11,29 @@ Projeto desenvolvido para a **Global Solution – DevOps & CI/CD** da FIAP.
 
 A **SPACE CONNECT** é uma aplicação de monitoramento de sistemas espaciais com pipeline CI/CD automatizada via Jenkins, Docker e GitHub.
 
-## 🗂️ Estrutura
+## 📁 Estrutura final do repositório
 
 space-connect-app/
-├── app.py                  # Aplicação Flask
-├── requirements.txt        # Dependências Python
-├── Dockerfile              # Container da aplicação
-├── Jenkinsfile             # Pipeline CI/CD declarativa
+├── app.py
+├── requirements.txt
+├── Dockerfile
+├── Jenkinsfile
+├── README.md
 ├── jenkins/
-│   ├── Dockerfile          # Imagem Jenkins com Docker CLI
-│   └── docker-compose.yml  # Orquestração do Jenkins
-├── evidencias/             # Prints das etapas
-└── README.md
+│   ├── Dockerfile
+│   └── docker-compose.yml
+├── evidencias/
+│   ├── parte2-docker-build.png
+│   ├── parte2-docker-run.png
+│   ├── parte2-curl.png
+│   ├── parte3-trigger-automatico.png
+│   ├── parte3-console-output.png
+│   ├── parte3-jenkins-pipeline-verde.png
+│   ├── Dashboard principal do Jenkins.png
+│   ├── docker compose up.png
+│   ├── Curl no Console.png
+│   ├── Stage View.png
+│   └── Terminal com o git push confirmado.png
 
 ## ⚙️ Endpoints
 
